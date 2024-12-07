@@ -41,6 +41,7 @@
 
 ## How to Access
 
+- Visit the [Project Website](https://ionescuaandrei.github.io/OS-HW/).
 - Visit the [Project Page](project.html) for more details.
 - View the [Latest Version](https://github.com/ionescuaandrei/OS-HW).
 
