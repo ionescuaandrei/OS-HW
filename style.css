@@ -280,3 +280,99 @@ ul.navbar-list{
 .feature ion-icon{
     font-size: 40px;
 }
+
+/* Project */
+
+#project{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: column;
+    margin: 0 100px;
+}
+
+#project h3{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    margin: 0 100px;
+}
+
+.project-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ccc;
+}
+
+.overview{
+    width: 50%;
+    text-align: justify;
+}
+
+.overview h4{
+    font-size: 30px;
+    font-weight: 500;
+    color: var(--dark-red);
+}
+
+.objectives h4{
+    font-size: 30px;
+    font-weight: 500;
+    color: var(--dark-red);
+}
+
+#updates{
+    color: #fff;
+}
+
+#updates h4{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+    color: wheat;
+}
+
+.updates{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.version{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    gap: 10px;
+}
+
+.version a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.version ion-icon{
+    color: var(--accent);
+    font-size: 30px;
+}
+
+footer{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent);
+    color: #fff;
+}
+
+footer span{
+    font-size: 1.3rem;
+    font-weight: 400;
+}
